@@ -17,7 +17,7 @@ I launched **jeetoplay.in**, a real-money gaming platform that reached 4,000+ us
 
 ### What I've built
 
-**jeetoplay.in** — Real money gaming platform. 3,600+ users, wallet system, tournament management, admin panel. Built with Firebase, deployed on Android via APK.
+**jeetoplay.in** — Real money gaming platform. 4,000+ users, wallet system, tournament management, admin panel. Built with Firebase, deployed on Android via APK.
 > Taught me everything about what NOT to do with databases.
 
 **Telegram reward bots** — Automated task-based reward systems with 100–200 active users and withdrawal flows.
