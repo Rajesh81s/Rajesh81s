@@ -4,7 +4,7 @@
 ---
 
 ### About me
-I'm a first-year B.Tech Computer Science student (AIML) at Knowledge Institute of Technology, Durgapur. I don't just study tech — I build with it.
+I'm a first-year B.Tech Computer Science student (AIML) at NSHM Knowledge Campus, Durgapur. I don't just study tech — I build with it.
 
 I launched **jeetoplay.in**, a real-money gaming platform that reached 4,000+ users, handling payments, withdrawals, and admin systems entirely on my own. I learned hard lessons about database architecture, scaling, and cost management — and I'm turning those lessons into better engineering skills.
 
