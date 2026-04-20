@@ -1,4 +1,4 @@
-## Hey, I'm [Rajesh Sardar] 👋
+## Hey, I'm Rajesh Sardar 👋
 *First year CS student · AIML specialization · Builder at heart*
 
 ---
