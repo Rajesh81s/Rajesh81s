@@ -36,7 +36,7 @@ markets.
 
 - 🏆 Codeforces — actively solving, rating climbing
 - 📐 Mathematics — Probability, Statistics, 
-  Linear Algebra (Khan Academy daily)
+  Linear Algebra
 - 🐍 Python — quantitative analysis and 
   backtesting trading strategies
 - ⚡ C++ — competitive programming and 
