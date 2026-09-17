@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm an 18-year-old CS student at NSHM Knowledge 
+I'm an 20-year-old CS student at NSHM Knowledge 
 Campus, Durgapur specializing in AI/ML.
 
 I don't just study technology — I build with it 
